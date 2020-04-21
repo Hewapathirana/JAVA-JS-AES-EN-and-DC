@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47e0fcce-d2e2-41b6-b71d-960bff324305" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNoetic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestNoetic/com/company/AES.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TestNoetic/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AES.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestNoetic/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestNoetic/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,22 +29,14 @@
   </component>
   <component name="ProjectId" id="1SJk1Iyjdpc1peGDCW5iTDK4j1v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -85,12 +68,25 @@
       <workItem from="1571288874788" duration="63000" />
       <workItem from="1571894795146" duration="81000" />
       <workItem from="1572104434449" duration="9800000" />
-      <workItem from="1573185391947" duration="1229000" />
+      <workItem from="1573185391947" duration="10811000" />
+      <workItem from="1575371042871" duration="8629000" />
+      <workItem from="1579758026175" duration="3107000" />
+      <workItem from="1582104349827" duration="611000" />
+      <workItem from="1584690439672" duration="259000" />
+      <workItem from="1587438371090" duration="820000" />
     </task>
+    <task id="LOCAL-00001" summary="en and dc">
+      <created>1573794306264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573794306264</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -102,5 +98,52 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="en and dc" />
+    <option name="LAST_COMMIT_MESSAGE" value="en and dc" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1233" height="136" key="GridCell.Tab.0.bottom" timestamp="1587439943944">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="136" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1587439943944" />
+    <state width="1233" height="136" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1580118920017" />
+    <state width="1233" height="136" key="GridCell.Tab.0.center" timestamp="1587439943944">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="136" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1587439943944" />
+    <state width="1233" height="136" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1580118920017" />
+    <state width="1233" height="136" key="GridCell.Tab.0.left" timestamp="1587439943944">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="136" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1587439943944" />
+    <state width="1233" height="136" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1580118920017" />
+    <state width="1233" height="136" key="GridCell.Tab.0.right" timestamp="1587439943944">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="136" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1366.768@67.27.1299.741" timestamp="1587439943944" />
+    <state width="1233" height="136" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1580118920017" />
+    <state width="1233" height="201" key="GridCell.Tab.1.bottom" timestamp="1580118797094">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="201" key="GridCell.Tab.1.bottom/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1580118797094" />
+    <state width="1233" height="201" key="GridCell.Tab.1.center" timestamp="1580118797094">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="201" key="GridCell.Tab.1.center/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1580118797094" />
+    <state width="1233" height="201" key="GridCell.Tab.1.left" timestamp="1580118797094">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="201" key="GridCell.Tab.1.left/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1580118797094" />
+    <state width="1233" height="201" key="GridCell.Tab.1.right" timestamp="1580118797094">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="201" key="GridCell.Tab.1.right/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1580118797094" />
+    <state x="362" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1582104348657">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="362" y="211" key="com.intellij.ide.util.TipDialog/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1582104348657" />
   </component>
 </project>

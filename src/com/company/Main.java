@@ -8,6 +8,14 @@ import javax.crypto.spec.SecretKeySpec;
 import java.util.Base64;
 
 public class Main {
+
+
+    static {
+        System.out.println("staic block");
+    }
+
+
+
      //code for react or react native
 
 
@@ -94,7 +102,7 @@ pre coding: npm install crypto-js
 
 
     public static void main(String[] args) {
-
+        System.out.println("inside main method");
        /* final String secretKey = "tyuu";
 
         String originalString = "howtodoinjava.com";
@@ -109,11 +117,41 @@ pre coding: npm install crypto-js
 
 
        //below part is for above static methods
-        try {
+     /*   try {
             desEncrypt();
         } catch (Exception e) {
             e.printStackTrace();
-        }
+        }*/
+
+
+     //String s1= "This Payer Ref [customerRef] does not exist.";
+
+
+
+
+
+       /* String test =  "This";
+        String lastWord = test.substring(test.lastIndexOf(" ")+1);
+
+
+
+         String xx= "  das san bnm vbn ";
+        System.out.println(lastWord);*/
+        //String str = "This Payer Ref [payerRef]  does not exist";
+        //str = str.replaceAll("\\[.*?\\]", "").replaceAll("\\s{2,}", " ").replaceAll("\\(.*?\\) ?", "");
+
+
+
+        //String s = "12345";
+        //String newString = s.substring(0, 4) + "********" + s.substring(12);
+
+
+
+
+
+
+
+
 
 
     }
